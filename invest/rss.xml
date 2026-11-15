@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel><title>Neura Invest</title><link>https://kaonasi59-cmyk.github.io/neura/invest/</link><description>Учебная песочница Neura Invest: только проценты, DEMO. Не финансовый совет. Создано с помощью ИИ.</description><language>ru</language>
+<atom:link href="https://kaonasi59-cmyk.github.io/neura/invest/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Neura Invest: итог недели 09.11–15.11 (DEMO)</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/nedelya-2026-11-09/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/nedelya-2026-11-09/</guid>
+<pubDate>Sun, 15 Nov 2026 19:31:18 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>Четыре учебных счёта песочницы, изменение оценки с 09.11 19:29 до 15.11 19:31 МСК:</description>
+<content:encoded><![CDATA[<p>Neura Invest: итог недели 09.11–15.11 (DEMO)</p><p>Neura Invest · неделя 09.11–15.11.2026 · DEMO.</p><p>Четыре учебных счёта песочницы, изменение оценки с 09.11 19:29 до 15.11 19:31 МСК:</p><p>Робот: −0,41%. Портфель: −0,86%. Облигации: +0,18%. Дивиденды: +0,71%.</p><p>Сверка робота с песочницей: нет данных. IMOEX за тот же период: нет сопоставимых данных недели, поэтому разницу с индексом не считаем.</p><p>Это учебная среда: проценты показывают работу правил на демо-счетах, а не результат реальных вложений. Методику сравнения и пояснения к терминам публикуем отдельными материалами.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+<item>
+<title>«Данных нет» и «ожидает сверки»: как мы честно показываем пробелы</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/net-dannyh-i-sverka/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/net-dannyh-i-sverka/</guid>
+<pubDate>Sun, 15 Nov 2026 18:30:32 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>Если в снимке песочницы нет значения IMOEX за тот же период, строка остаётся с пометкой «данных нет». Ноль означал бы нулевое изменение, а здесь величина пока неизвестна.</description>
+<content:encoded><![CDATA[<p>«Данных нет» и «ожидает сверки»: как мы честно показываем пробелы</p><p>Что показываем при пустом значении индекса.</p><p>Если в снимке песочницы нет значения IMOEX за тот же период, строка остаётся с пометкой «данных нет». Ноль означал бы нулевое изменение, а здесь величина пока неизвестна.</p><p>Когда итог требует подтверждения.</p><p>Если источники расходятся по времени или цене исполнения, рядом с процентом ставим «ожидает сверки». Следующий итог уточнит запись после проверки. До этого подтверждённым считается только то, что удалось сопоставить.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+<item>
+<title>Открытые сделки и просадка робота</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/otkrytye-sdelki-i-prosadka/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/otkrytye-sdelki-i-prosadka/</guid>
+<pubDate>Sun, 15 Nov 2026 17:30:32 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>В учебной сводке закрытые сделки дали +0,7% от капитала на начало недели. Оценка открытых позиций ещё может измениться. Поэтому её показываем отдельной строкой.</description>
+<content:encoded><![CDATA[<p>Открытые сделки и просадка робота</p><p>Открытые и закрытые сделки робота.</p><p>В учебной сводке закрытые сделки дали +0,7% от капитала на начало недели. Оценка открытых позиций ещё может измениться. Поэтому её показываем отдельной строкой.</p><p>Просадка робота.</p><p>Условная линия DEMO снизилась на 5% от уже достигнутого максимума. Это текущая просадка относительно пика. Чтобы узнать результат недели, нужна другая точка — значение на её начало.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+<item>
+<title>Что делает DEMO-робот и как считается выход по стопу</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/demo-robot-i-stop/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/demo-robot-i-stop/</guid>
+<pubDate>Sun, 15 Nov 2026 16:30:32 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>Робот песочницы применяет правила к доступным данным, записывает направление и время, а затем получает факт исполнения. Один отчёт показывает, какие правила сработали и что попало в результат.</description>
+<content:encoded><![CDATA[<p>Что делает DEMO-робот и как считается выход по стопу</p><p>Что делает DEMO-робот.</p><p>Робот песочницы применяет правила к доступным данным, записывает направление и время, а затем получает факт исполнения. Один отчёт показывает, какие правила сработали и что попало в результат.</p><p>Стоп и фактический выход.</p><p>Условный пример DEMO: стоп активировался на −2% от входа. Исполнение прошло на −2,3% от той же цены. Для расчёта результата важна цена исполнения и отдельно — учтённые издержки.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+<item>
+<title>Как складывается итог учебного счёта</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/itog-uchebnogo-scheta/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/itog-uchebnogo-scheta/</guid>
+<pubDate>Sun, 15 Nov 2026 15:30:32 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>В условном примере DEMO изменение оценки +2%, учтённые выплаты +1% от одной базы. Для такого примера итог +3% до издержек. Если базы разные, простое сложение уже не подходит.</description>
+<content:encoded><![CDATA[<p>Как складывается итог учебного счёта</p><p>Сводка по дивидендному счёту.</p><p>В условном примере DEMO изменение оценки +2%, учтённые выплаты +1% от одной базы. Для такого примера итог +3% до издержек. Если базы разные, простое сложение уже не подходит.</p><p>Почему цена облигации меняется.</p><p>В условном примере DEMO цена бумаги снизилась на 1% за неделю при неизменных условиях купона. Оценка позиции изменилась. Итог счёта зависит от доли этой бумаги и остальных учтённых строк.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+<item>
+<title>Накопленный купонный доход и даты погашения</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/nkd-i-daty-pogasheniya/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/nkd-i-daty-pogasheniya/</guid>
+<pubDate>Sun, 15 Nov 2026 14:30:32 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>Накопленный купонный доход показывает, какая доля купона набежала с предыдущей выплаты. Поэтому указанная цена бумаги и расчёт при сделке могут различаться. В отчёте отдельно проверяем, что уже включе</description>
+<content:encoded><![CDATA[<p>Накопленный купонный доход и даты погашения</p><p>Накопленный купонный доход.</p><p>Накопленный купонный доход показывает, какая доля купона набежала с предыдущей выплаты. Поэтому указанная цена бумаги и расчёт при сделке могут различаться. В отчёте отдельно проверяем, что уже включено в сумму расчёта.</p><p>Зачем в отчёте даты погашения.</p><p>У облигаций могут быть разные сроки погашения. Если погашения распределены по времени, график показывает, в какие периоды меняется структура учебного счёта. По графику сроков нельзя восстановить его доходность.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+<item>
+<title>Облигация и купон простыми словами</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/obligaciya-i-kupon/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/obligaciya-i-kupon/</guid>
+<pubDate>Sun, 15 Nov 2026 13:30:32 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>Облигация — долговая бумага. Её условия описывают, как эмитент должен погасить долг и предусмотрены ли выплаты. В учебном отчёте цена бумаги и фактические выплаты учитываются отдельно.</description>
+<content:encoded><![CDATA[<p>Облигация и купон простыми словами</p><p>Облигация простыми словами.</p><p>Облигация — долговая бумага. Её условия описывают, как эмитент должен погасить долг и предусмотрены ли выплаты. В учебном отчёте цена бумаги и фактические выплаты учитываются отдельно.</p><p>Купон и доходность.</p><p>Купон — предусмотренная условиями выплата по облигации. Доходность зависит ещё от цены, срока и входящих в расчёт платежей. Условный купон 8% от номинала сам по себе не описывает чистую доходность счёта DEMO.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+<item>
+<title>Доходность выплаты и цена после отсечки</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/dividendnaya-dohodnost-i-cena/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/dividendnaya-dohodnost-i-cena/</guid>
+<pubDate>Sun, 15 Nov 2026 12:30:32 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>Условная выплата DEMO составляет 4% от одной выбранной цены. Если меняется цена, от которой считаем, меняется и процент. Само решение о выплате при таком пересчёте не меняется.</description>
+<content:encoded><![CDATA[<p>Доходность выплаты и цена после отсечки</p><p>Доходность выплаты зависит от базы.</p><p>Условная выплата DEMO составляет 4% от одной выбранной цены. Если меняется цена, от которой считаем, меняется и процент. Само решение о выплате при таком пересчёте не меняется.</p><p>Почему цена может измениться после отсечки.</p><p>После даты, связанной с дивидендами, цена может измениться. На неё одновременно влияют условия выплаты и другие новости рынка. По движению одной свечи нельзя точно разделить вклад этих причин.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+<item>
+<title>Дивиденд: решение, отсечка и день выплаты</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/dividend-otsechka-i-vyplata/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/dividend-otsechka-i-vyplata/</guid>
+<pubDate>Sun, 15 Nov 2026 11:30:32 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>Дивиденд — распределение части средств компании среди акционеров, когда принято соответствующее решение. В песочнице показываем отдельно, вошли ли условные выплаты в результат и каким периодом они учт</description>
+<content:encoded><![CDATA[<p>Дивиденд: решение, отсечка и день выплаты</p><p>Дивиденд и отчётность.</p><p>Дивиденд — распределение части средств компании среди акционеров, когда принято соответствующее решение. В песочнице показываем отдельно, вошли ли условные выплаты в результат и каким периодом они учтены.</p><p>Отсечка и день выплаты.</p><p>Дата определения получателей и день фактической выплаты описывают разные этапы. В учебном отчёте показываем их отдельными строками. График изменения цены при этом остаётся отдельным наблюдением.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+<item>
+<title>Сравнение с индексом: один период и одна стартовая точка</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/sravnenie-s-indeksom-period/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/sravnenie-s-indeksom-period/</guid>
+<pubDate>Sun, 15 Nov 2026 10:30:32 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>Условный DEMO-пример: портфель +4%, IMOEX +3% за один период. Разница составляет один процентный пункт. Если сдвинуть начало только у одной линии, сравнение потеряет общий масштаб.</description>
+<content:encoded><![CDATA[<p>Сравнение с индексом: один период и одна стартовая точка</p><p>Один период для двух линий.</p><p>Условный DEMO-пример: портфель +4%, IMOEX +3% за один период. Разница составляет один процентный пункт. Если сдвинуть начало только у одной линии, сравнение потеряет общий масштаб.</p><p>Почему важна стартовая точка.</p><p>Условный портфель DEMO может прибавить +3% от старта и показать −1% за последнюю неделю. Оба числа относятся к одной линии с разными начальными точками. Рядом с процентом указываем период.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+<item>
+<title>IMOEX простыми словами: что входит в индекс и как учтены выплаты</title>
+<link>https://kaonasi59-cmyk.github.io/neura/invest/imoex-prostymi-slovami/</link>
+<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/imoex-prostymi-slovami/</guid>
+<pubDate>Sun, 15 Nov 2026 09:30:32 +0300</pubDate>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<category>native-draft</category>
+<category>format-post</category>
+<category>index</category>
+<category>comment-all</category>
+<description>Индекс МосБиржи IMOEX объединяет ценовую динамику группы акций. У бумаг разный вес. Поэтому одинаковое изменение цен двух компаний может по-разному повлиять на индекс. Источник: Московская биржа.</description>
+<content:encoded><![CDATA[<p>IMOEX простыми словами: что входит в индекс и как учтены выплаты</p><p>IMOEX простыми словами.</p><p>Индекс МосБиржи IMOEX объединяет ценовую динамику группы акций. У бумаг разный вес. Поэтому одинаковое изменение цен двух компаний может по-разному повлиять на индекс. Источник: <a href="https://www.moex.com/ru/index/imoex">Московская биржа</a>.</p><p>Индекс и выплаты.</p><p>IMOEX — ценовой индекс. Отдельный индекс полной доходности учитывает дивиденды по своей методике. Перед сравнением с песочницей полезно подписать, какой индекс выбран и как отражены выплаты. Источник: <a href="https://www.moex.com/ru/index/imoex">Московская биржа</a>.</p><p>DEMO · Не финансовый совет · Создано с помощью ИИ</p>]]></content:encoded>
+</item>
+</channel></rss>
