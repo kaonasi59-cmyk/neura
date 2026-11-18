@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel><title>Neura Invest</title><link>https://kaonasi59-cmyk.github.io/neura/invest/</link><description>Учебная песочница Neura Invest: только проценты, DEMO. Не финансовый совет. Создано с помощью ИИ.</description><language>ru</language>
-<atom:link href="https://kaonasi59-cmyk.github.io/neura/invest/rss.xml" rel="self" type="application/rss+xml"/>
+<channel><title>Neura Invest</title><link>https://neuratrade.ru/about/invest/</link><description>Учебная песочница Neura Invest: только проценты, DEMO. Не финансовый совет. Создано с помощью ИИ.</description><language>ru</language>
+<atom:link href="https://neuratrade.ru/about/invest/rss.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Neura Invest: итог недели 09.11–15.11 (DEMO)</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/nedelya-2026-11-09/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/nedelya-2026-11-09/</guid>
+<link>https://neuratrade.ru/about/invest/nedelya-2026-11-09/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/nedelya-2026-11-09/</guid>
 <pubDate>Sun, 15 Nov 2026 19:31:18 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>
@@ -17,8 +17,8 @@
 </item>
 <item>
 <title>«Данных нет» и «ожидает сверки»: как мы честно показываем пробелы</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/net-dannyh-i-sverka/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/net-dannyh-i-sverka/</guid>
+<link>https://neuratrade.ru/about/invest/net-dannyh-i-sverka/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/net-dannyh-i-sverka/</guid>
 <pubDate>Sun, 15 Nov 2026 18:30:32 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>
@@ -30,8 +30,8 @@
 </item>
 <item>
 <title>Открытые сделки и просадка робота</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/otkrytye-sdelki-i-prosadka/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/otkrytye-sdelki-i-prosadka/</guid>
+<link>https://neuratrade.ru/about/invest/otkrytye-sdelki-i-prosadka/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/otkrytye-sdelki-i-prosadka/</guid>
 <pubDate>Sun, 15 Nov 2026 17:30:32 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>
@@ -43,8 +43,8 @@
 </item>
 <item>
 <title>Что делает DEMO-робот и как считается выход по стопу</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/demo-robot-i-stop/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/demo-robot-i-stop/</guid>
+<link>https://neuratrade.ru/about/invest/demo-robot-i-stop/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/demo-robot-i-stop/</guid>
 <pubDate>Sun, 15 Nov 2026 16:30:32 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>
@@ -56,8 +56,8 @@
 </item>
 <item>
 <title>Как складывается итог учебного счёта</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/itog-uchebnogo-scheta/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/itog-uchebnogo-scheta/</guid>
+<link>https://neuratrade.ru/about/invest/itog-uchebnogo-scheta/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/itog-uchebnogo-scheta/</guid>
 <pubDate>Sun, 15 Nov 2026 15:30:32 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>
@@ -69,8 +69,8 @@
 </item>
 <item>
 <title>Накопленный купонный доход и даты погашения</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/nkd-i-daty-pogasheniya/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/nkd-i-daty-pogasheniya/</guid>
+<link>https://neuratrade.ru/about/invest/nkd-i-daty-pogasheniya/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/nkd-i-daty-pogasheniya/</guid>
 <pubDate>Sun, 15 Nov 2026 14:30:32 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>
@@ -82,8 +82,8 @@
 </item>
 <item>
 <title>Облигация и купон простыми словами</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/obligaciya-i-kupon/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/obligaciya-i-kupon/</guid>
+<link>https://neuratrade.ru/about/invest/obligaciya-i-kupon/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/obligaciya-i-kupon/</guid>
 <pubDate>Sun, 15 Nov 2026 13:30:32 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>
@@ -95,8 +95,8 @@
 </item>
 <item>
 <title>Доходность выплаты и цена после отсечки</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/dividendnaya-dohodnost-i-cena/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/dividendnaya-dohodnost-i-cena/</guid>
+<link>https://neuratrade.ru/about/invest/dividendnaya-dohodnost-i-cena/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/dividendnaya-dohodnost-i-cena/</guid>
 <pubDate>Sun, 15 Nov 2026 12:30:32 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>
@@ -108,8 +108,8 @@
 </item>
 <item>
 <title>Дивиденд: решение, отсечка и день выплаты</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/dividend-otsechka-i-vyplata/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/dividend-otsechka-i-vyplata/</guid>
+<link>https://neuratrade.ru/about/invest/dividend-otsechka-i-vyplata/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/dividend-otsechka-i-vyplata/</guid>
 <pubDate>Sun, 15 Nov 2026 11:30:32 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>
@@ -121,8 +121,8 @@
 </item>
 <item>
 <title>Сравнение с индексом: один период и одна стартовая точка</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/sravnenie-s-indeksom-period/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/sravnenie-s-indeksom-period/</guid>
+<link>https://neuratrade.ru/about/invest/sravnenie-s-indeksom-period/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/sravnenie-s-indeksom-period/</guid>
 <pubDate>Sun, 15 Nov 2026 10:30:32 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>
@@ -134,8 +134,8 @@
 </item>
 <item>
 <title>IMOEX простыми словами: что входит в индекс и как учтены выплаты</title>
-<link>https://kaonasi59-cmyk.github.io/neura/invest/imoex-prostymi-slovami/</link>
-<guid isPermaLink="true">https://kaonasi59-cmyk.github.io/neura/invest/imoex-prostymi-slovami/</guid>
+<link>https://neuratrade.ru/about/invest/imoex-prostymi-slovami/</link>
+<guid isPermaLink="true">https://neuratrade.ru/about/invest/imoex-prostymi-slovami/</guid>
 <pubDate>Sun, 15 Nov 2026 09:30:32 +0300</pubDate>
 <media:rating scheme="urn:simple">nonadult</media:rating>
 <category>native-draft</category>

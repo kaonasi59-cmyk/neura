@@ -1,11 +1,9 @@
 # Neura
 
-Public website for the Neura educational media project (crypto trading and investing).
+Сайт переехал на [neuratrade.ru](https://neuratrade.ru/).
 
-Live site: https://kaonasi59-cmyk.github.io/neura/
+- Витрина и политика: https://neuratrade.ru/about/
+- Материалы Invest: https://neuratrade.ru/about/invest/
+- Живая статистика и DEMO: https://neuratrade.ru/neura/ и https://neuratrade.ru/invest/
 
-- Home: https://kaonasi59-cmyk.github.io/neura/
-- Privacy Policy (Neura Uploader): https://kaonasi59-cmyk.github.io/neura/privacy.html
-- Terms of Service: https://kaonasi59-cmyk.github.io/neura/terms.html
-
-Hosted with GitHub Pages from the `main` branch root.
+GitHub Pages здесь только указывает на новый адрес (серверного 301 у Pages нет). Кастомный домен neuratrade.ru к Pages не подключался — сайт обслуживает VPS.
